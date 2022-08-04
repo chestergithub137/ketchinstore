@@ -2240,7 +2240,7 @@ input[type='checkbox'] {
 .header-wrapper {
   display: block;
   position: relative;
-  background-color: #01310d;
+  background-color: #1a221f;
 }
 
 .header-wrapper--border-bottom {
@@ -2312,7 +2312,7 @@ input[type='checkbox'] {
 
 .header__heading-link .h2 {
   line-height: 1;
-  color: #99885a;
+  color: #A79982;
 }
 
 .header__heading-logo {
