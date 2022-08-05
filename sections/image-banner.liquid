@@ -104,7 +104,7 @@
             </div>
           {%- when 'text-1' -%}
             <div class="banner__text {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
-              <span>{{ block.settings.text1 | escape }}</span>
+              <span>{{ block.settings.text | escape }}</span>
             </div>
           {%- when 'buttons' -%}
             <div class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_label_2 != blank %} banner__buttons--multiple{% endif %}" {{ block.shopify_attributes }}>
@@ -348,7 +348,7 @@
     },
     {
       "type": "heading-1",
-      "name": "t:sections.image-banner.blocks.heading.name1",
+      "name": "t:sections.image-banner.blocks.heading-1.name1",
       "limit": 1,
       "settings": [
         {
