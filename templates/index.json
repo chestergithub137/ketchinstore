@@ -17,18 +17,11 @@
             "heading_size": "h0"
           }
         },
-        "b31c446f-71a1-4bb4-a76b-d9a1f65bca85": {
-          "type": "heading-1",
-          "settings": {
-            "heading-1": "our passion",
-            "heading_size": "h1"
-          }
-        },
         "6bc54397-787d-4584-b6da-728808ee917c": {
           "type": "text-1",
           "settings": {
-            "text": "Lorem ipsum dolor sit amet. Ea aspernatur quia eos officiis doloremque et iure quae? Qui libero error At culpa expedita sit ratione maxime et obcaecati recusandae. Aut quisquam eaque est autem vitae in nemo possimus sed iusto eveniet et quasi odit et optio veritatis eos voluptatum.",
-            "text_style": "body"
+            "text-1": "Lorem ipsum dolor sit amet. Et doloribus voluptates aut nesciunt dolorem qui porro quis? Est necessitatibus animi est nostrum iste eum adipisci consequuntur qui velit ullam et illo nesciunt eum vero nulla. Aut odit omnis ut modi nostrum At eveniet consequuntur ex excepturi suscipit sed dolor fugit.",
+            "text_style_1": "body"
           }
         },
         "button": {
@@ -41,14 +34,22 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "9b034ad9-5e93-4552-9104-8856daa34751": {
+          "type": "heading_1",
+          "settings": {
+            "heading-1": "Image banner",
+            "heading-2": "#000",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
         "text",
         "heading",
-        "b31c446f-71a1-4bb4-a76b-d9a1f65bca85",
         "6bc54397-787d-4584-b6da-728808ee917c",
-        "button"
+        "button",
+        "9b034ad9-5e93-4552-9104-8856daa34751"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Rectangle_1.png",
