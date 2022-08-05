@@ -17,6 +17,13 @@
             "heading_size": "h0"
           }
         },
+        "b31c446f-71a1-4bb4-a76b-d9a1f65bca85": {
+          "type": "heading-1",
+          "settings": {
+            "heading-1": "our passion",
+            "heading_size": "h1"
+          }
+        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -32,6 +39,7 @@
       "block_order": [
         "text",
         "heading",
+        "b31c446f-71a1-4bb4-a76b-d9a1f65bca85",
         "button"
       ],
       "settings": {
