@@ -17,6 +17,13 @@
             "heading_size": "h0"
           }
         },
+        "9b034ad9-5e93-4552-9104-8856daa34751": {
+          "type": "heading_1",
+          "settings": {
+            "heading_1": "our passion",
+            "heading_size": "h1"
+          }
+        },
         "6bc54397-787d-4584-b6da-728808ee917c": {
           "type": "text-1",
           "settings": {
@@ -34,22 +41,14 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "9b034ad9-5e93-4552-9104-8856daa34751": {
-          "type": "heading_1",
-          "settings": {
-            "heading-1": "Image banner",
-            "heading-2": "#000",
-            "heading_size": "h1"
-          }
         }
       },
       "block_order": [
         "text",
         "heading",
+        "9b034ad9-5e93-4552-9104-8856daa34751",
         "6bc54397-787d-4584-b6da-728808ee917c",
-        "button",
-        "9b034ad9-5e93-4552-9104-8856daa34751"
+        "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Rectangle_1.png",
