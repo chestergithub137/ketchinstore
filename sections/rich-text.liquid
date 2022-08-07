@@ -24,7 +24,7 @@
       <div class="rich-text__blocks {{ section.settings.content_alignment }}">
         {%- for block in section.blocks -%}
           {%- case block.type -%}
-            {%- when 'heading' -%}
+            {%- when 'image' -%}
               <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                 {{ block.settings.heading | replace: 'p>', 'span>' }}
               </h2>
@@ -160,7 +160,7 @@
   ],
   "blocks": [
     {
-      "type": "heading",
+      "type": "image",
       "name": "t:sections.rich-text.blocks.heading.name",
       "limit": 3,
       "settings": [
@@ -281,7 +281,7 @@
       "name": "t:sections.rich-text.presets.name",
       "blocks": [
         {
-          "type": "heading"
+          "type": "image"
         },
         {
           "type": "text"
