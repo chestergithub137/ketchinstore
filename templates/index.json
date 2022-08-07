@@ -70,8 +70,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
+            "upload_logo": "shopify:\/\/shop_images\/image_6_3.png"
           }
         },
         "text": {
@@ -83,8 +82,6 @@
         "e63d599e-0d1c-4f28-ab60-096fbfe6a221": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
           }
         }
       },
