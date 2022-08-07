@@ -104,7 +104,6 @@
     },
     "featured_collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
@@ -136,7 +135,6 @@
       "blocks": {
         "collection-0": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": ""
           }
@@ -203,7 +201,6 @@
         },
         "column2": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -213,7 +210,6 @@
         },
         "column3": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
