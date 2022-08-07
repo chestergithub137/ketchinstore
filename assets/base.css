@@ -2107,7 +2107,7 @@ input[type='checkbox'] {
 
 .modal__toggle-open {
   display: flex;
-  color:#fff;
+  color:#000;
 }
 
 .no-js details[open] .modal__toggle-open {
