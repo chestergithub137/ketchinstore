@@ -2479,6 +2479,7 @@ details[open] .modal-overlay::after {
 .no-js details[open] > .header__icon--search {
   top: 1rem;
   right: 0.5rem;
+  color:#fff
 }
 
 .search-modal {
